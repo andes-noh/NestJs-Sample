@@ -51,16 +51,14 @@
     "**/node_modules": true,
     "**/lib/**/*.d.ts": true,
     "**/lib/**/*.js": true,
-    "**/dist": false,
-    "**/src/**/*.js": true
+    "**/dist": true
   },
-  "explorerExclude.backup": null,
-  "git.enabled": true,
-  "git.decorations.enabled": false,
-  "git.countBadge": "off",
+  "explorerExclude.backup": {},
   "typescript.tsdk": "node_modules/typescript/lib",
   "files.associations": {
     "*.json": "json",
-    "tsconfig.json": "jsonc"
-  }
+    "tsconfig.json": "jsonc",
+  },
+  "git.countBadge": "off",
+  "git.decorations.enabled": false,
 }
