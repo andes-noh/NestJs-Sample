@@ -13,6 +13,14 @@
 ```
 "ts-node-dev --respawn --prefer-ts-exts lib/"
 ```
+- ts-node-dev(ts 파일을 미리 컴파일하지 않고 바로 실행 시키는 엔진)
+
+## 빌드
+- package.json -> build
+```
+tsc --build --force
+```
+- tsc --build(*.ts -> *.js)
 
 ## 설명
 - cron 설치 
