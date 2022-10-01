@@ -2,7 +2,7 @@
 - NestJs sample-template
 
 ## Runtime
-- [Node JS] (https://nodejs.org/ko/)
+- [Node JS](https://nodejs.org/ko/)
 
 ## Framework
 - [NestJs](https://nestjs.com/)
