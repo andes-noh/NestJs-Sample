@@ -9,7 +9,10 @@
 
 ## 실행
 - npm install or yarn
-- package.json -> debug or 
+- package.json -> debug
+```
+"ts-node-dev --respawn --prefer-ts-exts lib/"
+```
 
 ## 설명
 - cron 설치 
